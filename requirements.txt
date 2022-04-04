@@ -1,0 +1,4 @@
+pytest
+Flask
+Jinja2
+xmlrunner
