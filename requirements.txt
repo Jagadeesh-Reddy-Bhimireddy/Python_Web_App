@@ -1,4 +1,6 @@
 pytest
+PyUnit
+pylint
 Flask
 Jinja2
 xmlrunner
